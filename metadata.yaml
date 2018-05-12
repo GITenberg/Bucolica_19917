@@ -1,0 +1,42 @@
+_repo: Bucolica_19917
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Mellin, Robert
+    aliases:
+    - Mellin, Gustaf Robert
+    - Mellin, R.
+    birthdate: 1826
+    deathdate: 1880
+    gutenberg_agent_id: '8377'
+    url: http://www.gutenberg.org/2009/agents/8377
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Virgil
+    aliases:
+    - Vergil
+    - Vergilius Maro, Publius
+    birthdate: -70
+    deathdate: -19
+    gutenberg_agent_id: '129'
+    url: http://www.gutenberg.org/2009/agents/129
+    wikipedia: http://en.wikipedia.org/wiki/Virgil
+description: ''
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2006-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19917'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country life -- Rome -- Poetry'
+- !lcsh 'Pastoral poetry, Latin -- Translations into Finnish'
+- !lcc 'PA'
+title: Bucolica
+url: http://www.gutenberg.org/ebooks/19917
