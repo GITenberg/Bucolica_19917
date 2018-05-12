@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/129
     wikipedia: http://en.wikipedia.org/wiki/Virgil
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19917#Bucolica
 gutenberg_bookshelf: Classical Antiquity
 gutenberg_issued: '2006-11-26'
 gutenberg_type: Text
